@@ -206,15 +206,6 @@ Sba-credit-risk-mini-project/
 ├── DATA400_SBA_7a_Credit_Risk_Final.py
 ├── DATA400_SBA_7a_Credit_Risk_Report.pdf
 ├── SBA_7a_Credit_Risk.pptx
-│
-├── data/
-│   └── README.md
-│
-├── figures/
-│   └── README.md
-│
-└── output/
-    └── README.md
 ```
 
 The notebook is the main reproducible analysis. The Python file contains the same workflow in script form.
